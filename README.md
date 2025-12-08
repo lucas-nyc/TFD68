@@ -1,9 +1,17 @@
 # TFD68
 TFD68: A Fully Annotated Pose-Invariant Thermal Facial Dataset with Occlusions and Visual Pairs Using 68-Point Landmarks
 
+# Installing Requirements
+Install `requirements.txt` using
+```bash
+pip install -r requirements.txt 
+```
 # Dataset Access
 Use this link to download dataset used in this project:
 https://compvis.site.hw.ac.uk/dataset/tfd-thermal-facial-dataset/
+
+Use this link to download pre-trained models:
+
 
 # Code Usage
 
