@@ -17,4 +17,4 @@ Fully Annotated Thermal Facial Dataset with 68 Landmarks, Pose Variations,
 Per-Pixel Thermal Maps, Visual Pairs, Occlusions, and Facial Expressions.
 In SIGGRAPH Asia 2025 Technical Communications (SA Technical Communications
 ’25), December 15–18, 2025, Hong Kong, China. ACM, New York, NY,
-USA, 5 pages. https://doi.org/10.1145/3757376.3771410
+USA, 4 pages. https://doi.org/10.1145/3757376.3771410
