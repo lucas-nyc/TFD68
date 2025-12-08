@@ -10,6 +10,7 @@ https://compvis.site.hw.ac.uk/dataset/tfd-thermal-facial-dataset/
 
 # Referencing
 If you make use of this code or TFD68 in your work. Please cite this work as:
+
 Yean Chun Ng, Alexander G. Belyaev, F. C. M. Choong, Shahrel Azmin
 Suandi, Joon Huang Chuah, and Bhuvendhraa Rudrusamy. 2025. TFD68: A
 Fully Annotated Thermal Facial Dataset with 68 Landmarks, Pose Variations,
