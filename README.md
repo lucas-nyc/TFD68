@@ -1,3 +1,6 @@
+# Update 23 January 2026
+Dataset is not yet available, as our University finalizes the security and legal matters to data sharing. Apology for any inconvenience caused. Stay tuned for any updates.
+
 # TFD68
 TFD68: A Fully Annotated Pose-Invariant Thermal Facial Dataset with Occlusions and Visual Pairs Using 68-Point Landmarks
 
