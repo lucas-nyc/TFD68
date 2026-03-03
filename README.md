@@ -24,6 +24,20 @@ tfd68_unet/
 ```
 
 # Code Usage
+1) Place data and annotations as above.
+2) Run prepare_dataset.py
+   ```python
+   python -m dataset.prepare_dataset
+   ```
+3) Run train.py
+   ```python
+   python -m train
+   ```
+4) Once trained, run test.py
+   ```python
+   python -m test
+   ```
+5) Results will be in /out
 
 
 # Referencing
