@@ -16,9 +16,8 @@ pip install -r requirements.txt
 # Dataset Access
 Use this link to download dataset used in this project and place in "input" folder:
 
-<!--
 https://compvis.site.hw.ac.uk/downloads/tfd68/
--->
+
 
 Use this link to download the pre-trained model:
 
