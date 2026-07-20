@@ -13,13 +13,12 @@ Install `requirements.txt` using
 ```bash
 pip install -r requirements.txt 
 ```
-# Dataset Access
+# Dataset and Pre-trained Models Access
 Use this link to download dataset used in this project and place in "input" folder:
 
-https://compvis.site.hw.ac.uk/downloads/tfd68/
+https://compvis.site.hw.ac.uk/downloads/
 
-
-Use this link to download the pre-trained model:
+Please use the same link to access pre-trained models.
 
 ```text
 tfd68_unet/
