@@ -1,3 +1,5 @@
+# Update 20 July 2026
+Dataset is ready for download. Please access using link below.
 # Update 29 April 2026
 We are pending the last stage of licensing from our legal department. Stay tuned. Apology for any inconvenience caused.
 # Update 23 January 2026
@@ -15,7 +17,7 @@ pip install -r requirements.txt
 Use this link to download dataset used in this project and place in "input" folder:
 
 <!--
-https://compvis.site.hw.ac.uk/dataset/tfd-thermal-facial-dataset/
+https://compvis.site.hw.ac.uk/downloads/tfd68/
 -->
 
 Use this link to download the pre-trained model:
